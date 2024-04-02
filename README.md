@@ -11,7 +11,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Laravel, Nextjs, Nestjs, Express, Inertia**
+- 🌱 I’m currently learning **Laravel, Nextjs, React ,Express**
 - 📫 How to reach me **grandrx041@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -108,14 +108,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
-      alt="nestjs"
       width="40"
       height="40"
     />
