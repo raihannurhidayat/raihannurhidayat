@@ -11,8 +11,8 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Laravel, Nextjs, Nestjs, Express, Inertia** - 📫
-How to reach me **grandrx041@gmail.com**
+- 🌱 I’m currently learning **Laravel, Nextjs, Nestjs, Express, Inertia**
+- 📫 How to reach me **grandrx041@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
