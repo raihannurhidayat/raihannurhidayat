@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Software Developers, Especially web developers</h3>
 
 <img align="right" width="200" src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="gif" />
-
+{*
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=raihannurhidayat&label=Profile%20views&color=0e75b6&style=flat"
@@ -193,6 +193,7 @@
     />
   </a>
 </p>
+*}
 
 <p>
   <img
