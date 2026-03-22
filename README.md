@@ -1,5 +1,5 @@
 ![Header](./BlackBanner.png) <h1 align="center">Hi 👋, I'm Muhamad Raihan Nurhidayat</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">A Passionate Fullstack Developer From Indonesia</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=raihannurhidayat&label=Profile%20views&color=0e75b6&style=flat" alt="raihannurhidayat" />
 </p>
